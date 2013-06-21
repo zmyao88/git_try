@@ -1,4 +1,3 @@
-test line 1
 2nd line
 3rd line
 1st commit on branch blue
